@@ -55,3 +55,7 @@ function getTitle(color) {
 getting = getTitle("pink")
 
 console.log(getting);
+
+
+console.log(hora)
+
